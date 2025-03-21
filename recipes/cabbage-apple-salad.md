@@ -1,3 +1,6 @@
+---
+---
+
 # Cabbage Bacon Apple Salad
 --
 ## Ingredients

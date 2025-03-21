@@ -1,3 +1,6 @@
+---
+---
+
 # Grandmother’s Beef Burgundy (Boeuf Bourguignon)
 
 This elegant, wine-braised beef stew is a memory of quiet care and kitchen craft. Cubed beef is brined in red wine and cognac with aromatic herbs, dusted in flour, and browned in butter. The sauce is silky, the flavors deep, and every detail—like adding the mushrooms and bacon separately—matters. A special dish for cold days, worthy of company or tradition.

@@ -1,3 +1,6 @@
+---
+---
+
 # Mushroom Soup
 
 This is one of my mom's favorites. Mushroom, leek, thyme, garlic has a very woodsy flavor and is one 
