@@ -1,53 +1,29 @@
 ---
 ---
 
-# Recipes
+# 📖 Recipes
 
-[recipes/avacado-gazpacho.md](recipes/avacado-gazpacho.md)
-
-[recipes/beef-burgundy.md](recipes/beef-burgundy.md)
-
-[recipes/beet-humus.md](recipes/beet-humus.md)
-
-[recipes/beet-orange-tarragon-salad.md](recipes/beet-orange-tarragon-salad.md)
-
-[recipes/breakfast-spaghetti.md](recipes/breakfast-spaghetti.md)
-
-[recipes/brusselsprouts.md](recipes/brusselsprouts.md)
-
-[recipes/burrata-caprese-sandwich.md](recipes/burrata-caprese-sandwich.md)
-
-[recipes/cabbage-apple-salad.md](recipes/cabbage-apple-salad.md)
-
-[recipes/cassoulet.md](recipes/cassoulet.md)
-
-[recipes/chickpea-tacos.md](recipes/chickpea-tacos.md)
-
-[recipes/coq-au-vin.md](recipes/coq-au-vin.md)
-
-[recipes/eggplant-pasta.md](recipes/eggplant-pasta.md)
-
-[recipes/horseradish-sauce.md](recipes/horseradish-sauce.md)
-
-[recipes/jespers-cabbage.md](recipes/jespers-cabbage.md)
-
-[recipes/mushroom-kale-tortellini.md](recipes/mushroom-kale-tortellini.md)
-
-[recipes/mushroom-soup.md](recipes/mushroom-soup.md)
-
-[recipes/nyc-halal-rice.md](recipes/nyc-halal-rice.md)
-
-[recipes/parisian-carrot-salad.md](recipes/parisian-carrot-salad.md)
-
-[recipes/pot-roast.md](recipes/pot-roast.md)
-
-[recipes/sausage-kale-soup.md](recipes/sausage-kale-soup.md)
-
-[recipes/shoyu-chicken.md](recipes/shoyu-chicken.md)
-
-[recipes/sophies-chicken-recipe.md](recipes/sophies-chicken-recipe.md)
-
-[recipes/tortilla-soup.md](recipes/tortilla-soup.md)
-
-[recipes/zucchini-pasta.md](recipes/zucchini-pasta.md)
-
+- [Avacado Gazpacho](recipes/avacado-gazpacho.md)
+- [Beef Burgundy](recipes/beef-burgundy.md)
+- [Beet Humus](recipes/beet-humus.md)
+- [Beet Orange Tarragon Salad](recipes/beet-orange-tarragon-salad.md)
+- [Breakfast Spaghetti](recipes/breakfast-spaghetti.md)
+- [Brusselsprouts](recipes/brusselsprouts.md)
+- [Burrata Caprese Sandwich](recipes/burrata-caprese-sandwich.md)
+- [Cabbage Apple Salad](recipes/cabbage-apple-salad.md)
+- [Cassoulet](recipes/cassoulet.md)
+- [Chickpea Tacos](recipes/chickpea-tacos.md)
+- [Coq Au Vin](recipes/coq-au-vin.md)
+- [Eggplant Pasta](recipes/eggplant-pasta.md)
+- [Horseradish Sauce](recipes/horseradish-sauce.md)
+- [Jespers Cabbage](recipes/jespers-cabbage.md)
+- [Mushroom Kale Tortellini](recipes/mushroom-kale-tortellini.md)
+- [Mushroom Soup](recipes/mushroom-soup.md)
+- [Nyc Halal Rice](recipes/nyc-halal-rice.md)
+- [Parisian Carrot Salad](recipes/parisian-carrot-salad.md)
+- [Pot Roast](recipes/pot-roast.md)
+- [Sausage Kale Soup](recipes/sausage-kale-soup.md)
+- [Shoyu Chicken](recipes/shoyu-chicken.md)
+- [Sophies Chicken Recipe](recipes/sophies-chicken-recipe.md)
+- [Tortilla Soup](recipes/tortilla-soup.md)
+- [Zucchini Pasta](recipes/zucchini-pasta.md)
