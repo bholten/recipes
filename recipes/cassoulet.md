@@ -41,9 +41,13 @@ This cassoulet was one of the most flavorful, rich, and comforting dishes my gra
 
 ## 🔪 Instructions
 
-### 1. Cook the Beans
+### 1. Cook the Beans with the Aromatics
 - Soak the beans overnight or use a quick soak.
-- Simmer with onion, bay leaves, and cloves for ~1 hour until tender but not falling apart.
+- In a large Dutch oven or heavy pot, melt duck fat (if using) or another fat of your choice
+- Add onion, carrots, celery (if using), garlic, and chopped tomatoes.
+- Add herbs (thyme, rosemary, bay, cloves) and season well with salt and pepper.
+- Optional: add pork rind (if using)
+- Simmer for ~1 hour until tender but not falling apart.
 - Salt toward the end of cooking. Reserve **1–2 cups** of the cooking liquid. Discard the clove-studded onion and bay leaves.
 
 ### 2. Roast the Meats
@@ -53,20 +57,14 @@ This cassoulet was one of the most flavorful, rich, and comforting dishes my gra
 - **Deglaze the roasting pan** with a splash of white wine or broth, scraping up the fond. **Add this to your reserved liquid or stock.**
 - Optional: 2–4 tbsp duck fat (if available)
 
-### 3. Prepare the Aromatics
-- In a large Dutch oven or heavy pot, melt duck fat (if using) or another fat of your choi
-- Add onion, carrots, celery (if using), garlic, and chopped tomatoes.
-- Add herbs (thyme, rosemary, bay) and season well with salt and pepper.
-- Cook until softened and fragrant, about 10–15 minutes.
-
-### 4. Assemble the Cassoulet
+### 3. Assemble the Cassoulet
 - Stir in cooked beans and the deglazing liquid or broth.
 - Nestle the roasted meats into the bean mixture, **keeping some meat near the surface** for crust development.
 - Add just enough liquid to come to the surface of the mixture—not swimming, but well-moistened.
 - (Optional) If using pork rind, **lay it flat along the bottom** of your Dutch oven or earthenware pot. This prevents sticking and adds richness to the beans.
 - Nestle in roasted sausages, pork, and duck (if using), keeping some meat near the surface for crust development.
 
-### 5. Roast and Build the Crust
+### 4. Roast and Build the Crust
 - Preheat oven to **325°F (160°C)**.
 - Roast **uncovered** for about 2½ to 3 hours.
 - Every 45–60 minutes, when a crust forms on top, gently **break the crust and ladle a bit of reserved bean liquid or stock** over it.
@@ -84,6 +82,7 @@ This cassoulet was one of the most flavorful, rich, and comforting dishes my gra
 - Most importantly, she always **deglazed the roasting pan** and added it to the broth—nothing was wasted, and all flavor was preserved.
 - My grandmother **sometimes lined the bottom of her pot with pork rind**—usually a brown, earthenware-style pot that tapered slightly. This step wasn't always used, but when it was, it added richness and protected the beans from scorching.
 - She also used **duck meat or duck fat** whenever it was available—especially in the autumn or if friends had hunted locally. When it wasn’t, she simply made do with pork and sausage and it was no less satisfying.
+- A high-quality tomato paste is beautiful in this, however, my mom and grandmother would have never used it, being suspicious of preservatives. I won't tell.
 
 ---
 

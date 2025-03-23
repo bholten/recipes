@@ -2,6 +2,9 @@
 ---
 
 # Mom’s Sunday Pot Roast
+
+Pot roast that is very onion-forward ("chicken loves garlic, beef loves onion" as we used to say). Different from a typical English Sunday roast in that (I believe) they are dry-roasted, whereas we braised our Sunday roasts.
+
 ---
 
 ## 🥩 Ingredients
@@ -63,13 +66,13 @@
 - **Remove the lid completely** and return to the oven for **1 hour**, or until the vegetables are tender and the roast has developed a crust on top.
 
 ### 6. Rest and Serve
-- Remove from oven and let rest 15 minutes.
+- Remove from oven and let rest 15-30 minutes.
 - Skim fat from the surface of the braising liquid if desired.
 - Slice or shred the roast and serve with vegetables and a spoonful of broth—or reduce the liquid on the stovetop to concentrate it into a sauce.
 
 ---
 
-## 👩‍🍳 Cook’s Note
+## 👩‍🍳 Mom’s Note
 
 > In our family, we always turn the roast once every hour during the braise. While not strictly necessary, this tradition helps the meat cook more evenly and ensures all sides get time both submerged in the flavorful broth and exposed to dry heat. As the roast becomes tender, we stop turning to let a crust form on top. This small ritual, passed down from my grandmother to my mother and now to me, gives the pot roast its signature texture: meltingly tender inside, with a beautifully seasoned, crusty top. We think it’s worth the care.
 

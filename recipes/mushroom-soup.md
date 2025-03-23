@@ -3,6 +3,27 @@
 
 # Mushroom Soup
 
+---
+
+## Ingredients
+- 2 leeks, finely diced
+- 1 pack of mushrooms, around 200 to 250 grams
+- 1 qrt chicken or mushroom stock
+- 2 or 3 cloves garlic
+- 1 1/2 tblsp thyme
+- 1 tblsp white pepper
+- 1/4 tsp nutmeg
+- 1/3 cup whole milk
+- 4-6 total Yukon gold and red potatoes
+- 3+ tablespoons butter
+- salt
+- (optional) glass of white wine
+- (optional) shot of cognac
+
+---
+
+## Instructions 
+
 This is one of my mom's favorites. Mushroom, leek, thyme, garlic has a very woodsy flavor and is one 
 of my favorite combinations.
 
@@ -44,17 +65,3 @@ creamy or leave it more rustic and not mash it at all. I like somewhere in betwe
 
 Add salt, white pepper, and a dash of nutmeg for final seasonings.
 
-## Ingredients
-- 2 leeks, finely diced
-- 1 pack of mushrooms, around 200 to 250 grams
-- 1 qrt chicken or mushroom stock
-- 2 or 3 cloves garlic
-- 1 1/2 tblsp thyme
-- 1 tblsp white pepper
-- 1/4 tsp nutmeg
-- 1/3 cup whole milk
-- 4-6 total Yukon gold and red potatoes
-- 3+ tablespoons butter
-- salt
-- (optional) glass of white wine
-- (optional) shot of cognac

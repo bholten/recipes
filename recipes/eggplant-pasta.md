@@ -2,7 +2,11 @@
 ---
 
 # Eggplant Pasta
---
+
+
+
+---
+
 ## Ingredients
 - Half of an eggplant
 - Garlic

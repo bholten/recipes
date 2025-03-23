@@ -3,6 +3,8 @@
 
 # NYC Halal Rice
 
+I learned this from a food truck in New York City. I have no idea what the ratios of spices were. Experiment on your own. I go heavy on the garlic, onion, and paprika. It's kind of like a super simplified chicken Biryani.
+
 ## Chicken and Rice
 
 ## Ingredients

@@ -3,7 +3,7 @@
 
 # Grandmother’s Coq au Vin
 
-This is a deeply aromatic, garlic-rich chicken dish slowly braised in red wine and brandy. Unlike many modern Coq au Vin recipes, the chicken is not fully submerged—allowing the skin to crisp and brown while the meat becomes tender. Bone-in thighs, bold herbs, and a generous hand with garlic define this deeply personal take on a French classic.
+Differences you might note from other versions of coq au vin: this is very garlic-forward ("chicken loves garlic, beef loves onion"); also, generally the skin is removed and rendered separately, however sometimes she would keep the skin on and take great care in keeping it crispy.
 
 ---
 

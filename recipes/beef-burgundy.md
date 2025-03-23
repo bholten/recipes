@@ -3,7 +3,7 @@
 
 # Grandmother’s Beef Burgundy (Boeuf Bourguignon)
 
-This elegant, wine-braised beef stew is a memory of quiet care and kitchen craft. Cubed beef is brined in red wine and cognac with aromatic herbs, dusted in flour, and browned in butter. The sauce is silky, the flavors deep, and every detail—like adding the mushrooms and bacon separately—matters. A special dish for cold days, worthy of company or tradition.
+Cubed beef is brined in red wine and cognac with aromatic herbs, dusted in flour, and browned in butter. The sauce is silky, the flavors deep, and every detail—like adding the mushrooms and bacon separately—matters. A special dish for cold days, worthy of company or tradition.
 
 ---
 
@@ -18,7 +18,7 @@ This elegant, wine-braised beef stew is a memory of quiet care and kitchen craft
 - 2 sprigs fresh thyme (or 1 tsp dried)
 - 1 sprig rosemary
 - 1 tsp black peppercorns
-- 1–2 whole star anise *(optional, but adds a subtle warmth and is occasionally used in older French recipes)*
+- 1–2 whole star anise (optional)
 
 ### For the Stew
 - 2 tbsp flour
@@ -46,8 +46,7 @@ This elegant, wine-braised beef stew is a memory of quiet care and kitchen craft
 
 ### 2. Prep the Beef
 - Remove beef from the marinade and **pat very dry** with paper towels.
-- Strain the marinade and reserve the liquid.
-- Discard (or compost) the aromatics.
+- Reserve the marinade liquid and aromatics.
 - **Lightly dust the beef cubes with flour** on all sides.
 
 ### 3. Brown the Beef
@@ -73,7 +72,7 @@ This elegant, wine-braised beef stew is a memory of quiet care and kitchen craft
 - Set all garnishes aside.
 
 ### 7. Finish the Sauce
-- When the beef is done, **strain the braising liquid** into a saucepan (optional but elegant).
+- When the beef is done, **strain the braising liquid** into a saucepan.
 - Simmer to reduce until slightly thickened.
 - Whisk in a **pat of cold butter** to finish the sauce—it adds gloss and richness.
 - Return sauce to the beef (and optionally add the mirepoix back too).
@@ -89,11 +88,7 @@ This elegant, wine-braised beef stew is a memory of quiet care and kitchen craft
 
 - **Wine:** Burgundy is traditional, but any dry red wine you’d happily drink will work.
 - **Brine time matters.** This dish builds flavor *before* it even begins cooking.
-- **Butter:** Yes, it’s a lot—but this isn’t a diet dish. It’s a dish full of soul and memory.
+- **Butter:** We used a comical amount of butter. You can adjust, but I don't. :)
 - **Optional glaze:** For an extra refined finish, reduce the sauce until nappe (coats the spoon) and strain again.
 
-Though some versions of Beef Burgundy use tomato paste, my grandmother did not—she believed in cooking with ingredients that would spoil, because that meant they were real.
-
----
-
-This dish was never your everyday dinner—it was your grandmother’s special occasion beef. Even if she didn’t always strain the sauce or measure her flour, every decision was made with intent. Following this recipe is following her rhythm in the kitchen.
+Absent from this recipe is tomato paste. My mom and grandmother are deeply suspicious of ingredients that do not spoil, so I cannot believe they ever used it! But a high-quality small can of tomato paste would be acceptable to me.

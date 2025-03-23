@@ -15,6 +15,7 @@
 - [Chickpea Tacos](recipes/chickpea-tacos.md)
 - [Coq Au Vin](recipes/coq-au-vin.md)
 - [Eggplant Pasta](recipes/eggplant-pasta.md)
+- [Filipino Notes](recipes/filipino-notes.md)
 - [Horseradish Sauce](recipes/horseradish-sauce.md)
 - [Jespers Cabbage](recipes/jespers-cabbage.md)
 - [Mushroom Kale Tortellini](recipes/mushroom-kale-tortellini.md)
