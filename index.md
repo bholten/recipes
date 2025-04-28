@@ -30,4 +30,5 @@
 - [Shoyu Chicken](recipes/shoyu-chicken.md)
 - [Sophies Chicken Recipe](recipes/sophies-chicken-recipe.md)
 - [Tortilla Soup](recipes/tortilla-soup.md)
+- [Vegrice](recipes/vegrice.md)
 - [Zucchini Pasta](recipes/zucchini-pasta.md)
