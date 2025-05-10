@@ -141,3 +141,131 @@ Noodles: If not using Italian pasta → Miki Noodles or Pancit Canton
 - Assemble the salad – Toss everything together and serve immediately or let it sit for a few more minutes to develop flavor.
 
 
+# Garlicky Pechay Rice
+
+Mild intro to greens using familiar vegrice flavors.
+
+## Ingredients
+
+- 2 cups cooked rice (preferably day-old)
+- 1/2 small onion, minced
+- 1 small carrot, minced or grated
+- 1/2 cup kalabasa, minced or grated
+- 1/2 bunch pechay, stems and leaves separated and finely chopped
+- 2–3 cloves garlic, minced
+- 1 tbsp oil or butter
+- Salt and pepper to taste
+
+## Instructions
+
+- Heat oil or butter in a pan.
+- Sauté onion, garlic, carrot, and kalabasa until soft.
+- Add chopped pechay stems first. Cook 1–2 minutes.
+- Add pechay leaves and stir until wilted.
+- Fold in rice and mix well. Season to taste.
+
+# Creamy Garlic Bok Choy
+
+Cream-forward side dish that masks bitterness.
+
+## Ingredients
+
+- 4–5 heads baby bok choy (pechay), halved or quartered
+- 4 cloves garlic, minced
+- 1 tbsp butter or oil
+- 1/3 cup all-purpose cream
+- Salt and pepper to taste
+
+## Instructions
+
+- Blanch bok choy briefly in boiling water, then drain.
+- In a pan, melt butter and sauté garlic until golden.
+- Add cream, stir briefly, then add bok choy.
+- Simmer 2–3 minutes. Season to taste and serve.
+
+# Kangkong Adobo with Pork Bits
+
+Rich umami dish that disguises greens with flavor.
+
+## Ingredients
+
+- 1/4 kg pork belly or ground pork
+- 1 bunch kangkong, stems and leaves separated
+- 4 cloves garlic, smashed
+- 2 tbsp soy sauce
+- 1 tbsp vinegar
+- 1 tsp sugar (optional)
+- 1/4 cup water
+- Oil for sautéing
+
+## Instructions
+
+- In a pan, sauté garlic in oil. Add pork and brown.
+- Add soy sauce, vinegar, sugar, and water. Simmer 5–7 min.
+- Add kangkong stems first, then leaves. Stir until wilted.
+- Simmer a bit more until flavors combine.
+
+# Crispy Kangkong Tempura
+
+Crunchy snack with dip to make greens fun.
+
+## Ingredients
+
+- 1 bunch kangkong (leaves only)
+- 1/2 cup flour
+- 1/4 cup cornstarch
+- 1/2 tsp baking powder
+- 1/2 tsp salt
+- 1/2 cup cold water (adjust for consistency)
+- Oil for deep frying
+
+## Instructions
+
+- Wash and pat dry kangkong leaves.
+- Mix dry ingredients, add water gradually to form a light batter.
+- Heat oil in deep pan. Dip leaves in batter and fry until golden.
+- Drain on paper towels. Serve with garlic mayo or sweet chili sauce.
+
+# Tinola Broth with Hidden Malunggay
+
+Classic broth with green nutrients blended in.
+
+## Ingredients
+
+- 1/2 kg chicken (bone-in preferred)
+- 1 thumb-sized piece ginger, sliced
+- 1 small onion
+- 1–2 cups water
+- 1/2 cup malunggay leaves
+- 1/2 green papaya or chayote, cubed
+- Fish sauce or salt to taste
+
+## Instructions
+
+- In a pot, sauté onion and ginger.
+- Add chicken and brown lightly.
+- Add water and simmer until chicken is tender.
+- In a blender, blitz malunggay with a ladle of hot broth.
+- Return puree to pot. Add papaya and season. Simmer until tender.
+
+# Sautéed Mustard Greens with Pork or Tuyo
+
+Advanced option with bold flavor pairing.
+
+## Ingredients
+
+- 1 bunch mustasa, chopped
+- 1 small onion, sliced
+- 2 cloves garlic, minced
+- 2–3 pcs tuyo or 1/4 cup diced pork belly
+- Oil for sautéing
+- Splash of vinegar or calamansi (optional)
+
+## Instructions
+
+- Heat oil and sauté garlic and onion.
+- Add tuyo or pork. Sauté until crispy or browned.
+- Add mustasa and stir-fry 2–3 minutes.
+- Add splash of vinegar or calamansi to mellow bitterness.
+- Serve hot with rice.
+
